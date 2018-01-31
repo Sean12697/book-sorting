@@ -1,0 +1,10 @@
+C:\Documents and Settings\moi\My Documents\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.exe
+C:\Documents and Settings\moi\My Documents\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.pdb
+C:\Documents and Settings\moi\My Documents\BookSortingEx\BookSortingEx\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\moi\My Documents\BookSortingEx\BookSortingEx\bin\Debug\BookSortingEx.exe
+C:\Documents and Settings\moi\My Documents\BookSortingEx\BookSortingEx\bin\Debug\BookSortingEx.pdb
+C:\Users\seand\Documents\Uni\Year 2\Algorithms and Data Structures\Week 14\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.csproj.CoreCompileInputs.cache
+C:\Users\seand\Documents\Uni\Year 2\Algorithms and Data Structures\Week 14\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.exe
+C:\Users\seand\Documents\Uni\Year 2\Algorithms and Data Structures\Week 14\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.pdb
+C:\Users\seand\Documents\Uni\Year 2\Algorithms and Data Structures\Week 14\BookSortingEx\BookSortingEx\bin\Debug\BookSortingEx.exe
+C:\Users\seand\Documents\Uni\Year 2\Algorithms and Data Structures\Week 14\BookSortingEx\BookSortingEx\bin\Debug\BookSortingEx.pdb
